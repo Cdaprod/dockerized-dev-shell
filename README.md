@@ -2,6 +2,10 @@
 
 # 🚀 **CDA Prod Dev Shell**
 
+[![Build and Push Workspace Shell Image](https://github.com/Cdaprod/dockerized-dev-shell/actions/workflows/docker-build.yml/badge.svg)](https://github.com/Cdaprod/dockerized-dev-shell/actions/workflows/docker-build.yml)
+[![Docker Pulls](https://img.shields.io/docker/pulls/cdaprod/dev-shell?style=for-the-badge&logo=docker&logoColor=white)](https://hub.docker.com/r/cdaprod/dev-shell)
+[![Docker Image Size](https://img.shields.io/docker/image-size/cdaprod/dev-shell/latest?style=for-the-badge&logo=docker&logoColor=white)](https://hub.docker.com/r/cdaprod/dev-shell)
+
 ## *The Ultimate Dockerized Development Environment*
 
 <p>
@@ -21,10 +25,6 @@
     <img src="https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white" alt="Personal Blog" />
   </a>
 </p>
-
-[![Build and Push Workspace Shell Image](https://github.com/Cdaprod/dockerized-dev-shell/actions/workflows/docker-build.yml/badge.svg)](https://github.com/Cdaprod/dockerized-dev-shell/actions/workflows/docker-build.yml)
-[![Docker Pulls](https://img.shields.io/docker/pulls/cdaprod/dev-shell?style=for-the-badge&logo=docker&logoColor=white)](https://hub.docker.com/r/cdaprod/dev-shell)
-[![Docker Image Size](https://img.shields.io/docker/image-size/cdaprod/dev-shell/latest?style=for-the-badge&logo=docker&logoColor=white)](https://hub.docker.com/r/cdaprod/dev-shell)
 
 </div>
 
