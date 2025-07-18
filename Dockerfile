@@ -9,8 +9,8 @@
 FROM python:3.11-slim-bookworm AS base
 LABEL maintainer="cdaprod.dev" \
       org.opencontainers.image.version="0.1.0" \
-      org.opencontainers.image.title="CDA Prod Workspace Shell" \
-      org.opencontainers.image.description="Developer workspace with zsh, nvim, and modern CLI tools"
+      org.opencontainers.image.title="CDA Prod Default Development Workspace Shell" \
+      org.opencontainers.image.description="Developer workspace public image with zsh, nvim, and modern CLI tools"
 
 ENV DEBIAN_FRONTEND=noninteractive \
     PYTHONDONTWRITEBYTECODE=1 \
